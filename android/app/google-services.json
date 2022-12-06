@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901272576796",
+    "project_id": "wine-searcher-app-f0db1",
+    "storage_bucket": "wine-searcher-app-f0db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901272576796:android:72ecfdcc5f64da5b7650d9",
+        "android_client_info": {
+          "package_name": "borkounou.com.wine_recognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901272576796-7op1tshijdtpacfm8pt6fv0dlcinefvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdhJXIJDlpYbVMS8j80IFfqCCK1QSmzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901272576796-7op1tshijdtpacfm8pt6fv0dlcinefvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
