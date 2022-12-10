@@ -1,7 +1,4 @@
-// String uri = 'http://192.168.1.32:3000';
 String uri = 'https://server-shazam-de-vin.herokuapp.com';
-// String uri = 'http://localhost:3000';
-// String uri2 = 'http://192.168.1.32:5000';
 String uri2 = "https://wine-recognizer-app.herokuapp.com";
 
 // class GlobalVariables {
